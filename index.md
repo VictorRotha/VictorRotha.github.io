@@ -11,3 +11,7 @@ Da er (der Charakter) es aber Wert ist, auf einer Website verewigt zu werden, si
 * und die Standhaftigkeit in Person
 
 > Morgen ist der Tag und Gestern. Aber jetzt gehe ich schlafen.
+
+<img src="https://banner2.cleanpng.com/20190423/zkg/kisspng-clip-art-openclipart-free-content-question-mark-ve-scripture-news-2-use-the-non-question-of-pre-exi-5cbf0e3f10beb4.7833601315560248950686.jpg
+"/>
+
