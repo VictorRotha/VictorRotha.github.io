@@ -9,3 +9,5 @@ Da er (der Charakter) es aber Wert ist, auf einer Website verewigt zu werden, si
 * aber nicht wankelmütig
 * dennoch flexibel
 * und die Standhaftigkeit in Person
+
+> Morgen ist der Tag und Gestern. Aber jetzt gehe ich schlafen.
