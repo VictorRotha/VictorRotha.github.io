@@ -5,7 +5,7 @@ Da er (der Charakter) es aber Wert ist, auf einer Website verewigt zu werden, si
 Über seine negativen Eigenschaften werden wir hier kein Wort verlieren.
 
 ## Seine/Ihre positiven Eigenschaften in Kurzform:
-1. sehr sprunghaft
-2. aber nicht wankelmütig
-3. dennoch flexibel
-4. und die Standhaftigkeit in Person
+* sehr sprunghaft
+* aber nicht wankelmütig
+* dennoch flexibel
+* und die Standhaftigkeit in Person
