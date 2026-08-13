@@ -1,0 +1,89 @@
+
+h1 {
+  color: rgb(9, 62, 122);
+  width: auto;
+  margin-top: 1cm;
+  text-align: center;
+}
+
+a {
+  font-size: small;
+}
+
+body {
+
+  font-family: "Mozilla Headline", "Helvetica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  background-color: rgb(144, 177, 214);
+}
+
+
+
+
+#subtitle {
+   background-color: rgb(217, 232, 245);
+  vertical-align: middle;
+  border: 1px solid gray;
+  text-align: center;
+  width: auto;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 12px
+  
+}
+.container {
+    border: 2px solid black;
+    margin-left:20%;
+    margin-right:20%;
+    padding: 32px;
+    background-color: aliceblue;
+}
+.block {
+
+    vertical-align: middle;
+    margin: 8px;
+  
+
+}
+.block-img {
+
+    vertical-align: top;
+    border: 1px solid darkgrey;
+    margin: 8px;
+}
+
+.outer {
+    text-align: left;
+    display: flex;
+    align-items:normal;
+    flex-wrap: wrap;
+    width: auto;
+    border: 2px solid black;
+    margin-left:20%;
+    margin-right:20%;
+    padding: 8px;
+      background-color: rgb(217, 232, 245);
+}
+
+.app-title {
+  margin: auto;
+  font-weight: bold;
+  font-size: large;
+}
+
+.app-body {
+    font-weight: normal;
+    font-size: small;
+}
+
+#impressum {
+  font-size: small;
+  text-align: center;
+}
+
+.spacer {
+  height: 20px;
+  width: 20px;
+}
